@@ -1,0 +1,28 @@
+{
+  "name": "algotradershispano",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.8.3",
+    "@astrojs/image": "^0.18.0",
+    "@astrojs/tailwind": "^5.1.0",
+    "animejs": "^3.2.2",
+    "aos": "^2.3.4",
+    "astro": "^4.13.1",
+    "countup.js": "^2.8.0",
+    "intersection-observer": "^0.12.2",
+    "solid-js": "^1.8.19",
+    "typescript": "^5.5.4"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.7",
+    "tailwindcss-animate": "^1.0.7"
+  }
+}
